@@ -12,6 +12,6 @@ form.addEventListener('submit', e => {
         setTimeout(function (){
             msg.innerHTML = ""
         }, 5000)
-        form
+        form.reset
     })
 })
