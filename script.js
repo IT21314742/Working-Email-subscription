@@ -8,6 +8,6 @@ form.addEventListener('submit', e => {
     e.preventDefault()
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
     .then(response => {
-        msg.innerHTML
+        msg.innerHTML = 
     })
 })
