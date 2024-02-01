@@ -9,5 +9,8 @@ form.addEventListener('submit', e => {
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
     .then(response => {
         msg.innerHTML = "Thank you for Subscribing!!"
+        setTimeout(() => {
+            
+        }, timeout);
     })
 })
