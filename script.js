@@ -3,5 +3,5 @@ const form = document.forms['submit-to-google-sheet']
 const msg = document.getElementById("msg")
 
 form.addEventListener('submit', e => {
-    
+    e.
 })
