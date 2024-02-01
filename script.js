@@ -11,6 +11,7 @@ form.addEventListener('submit', e => {
         msg.innerHTML = "Thank you for Subscribing!!"
         setTimeout(function (){
             msg.innerHTML = ""
-        }, 5000);
+        }, 5000)
+        form
     })
 })
