@@ -2,4 +2,4 @@ const scriptURL = 'https://script.google.com/macros/s/AKfycbz-15uQjlwk1lR-VDZgwu
 const form = document.forms['submit-to-google-sheet']
 const msg = document.getElementById("msg")
 
-form
+form.addEventListener
