@@ -10,5 +10,5 @@
     background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(background.png);
     background-size: cover;
     background-position: center;
-    padding: ;
+    padding: 10px;
 }
