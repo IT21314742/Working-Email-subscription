@@ -41,5 +41,5 @@ form input{
 form button{
     background: #61b752;
     border: none;
-    outline: 0;
+    outline: none;
 }
