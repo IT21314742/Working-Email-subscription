@@ -44,7 +44,7 @@ form button{
     outline: none;
     height: 70px;
     width: 100px;
-    cursor: pointer;
+    cursor: progress;
 }
 span{
     color: #61b752;
